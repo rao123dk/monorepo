@@ -1,0 +1,33 @@
+{
+  "name": "@infinity/newavtar",
+  "version": "1.0.1",
+  "description": "> TODO: description",
+  "author": "rao123dk <dheerajkrao1993@gmail.com>",
+  "homepage": "https://github.com/rao123dk/lerna-poc#readme",
+  "license": "ISC",
+  "main": "lib/newAvtar.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rao123dk/lerna-poc.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/rao123dk/lerna-poc/issues"
+  },
+  "dependencies": {
+    "redux": "^4.0.1"
+  },
+  "gitHead": "b95f6eb6da6f5183297163007cf58bfa767cd527"
+}
